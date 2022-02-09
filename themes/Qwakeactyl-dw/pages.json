@@ -62,9 +62,7 @@
     "j4r": "j4r.ejs",
     "make": "index2.ejs",
     "tos": "TOS.ejs",
-    "pp": "pp.ejs",
-    "lv": "linkvertise.ejs",
-    "lv/gen": "linkvertise.ejs"
+    "pp": "pp.ejs"
         
   },
   "mustbeloggedin": [
@@ -132,9 +130,6 @@
     },
     "redeem": {
       "title": "Redeem - Qwakactyl"
-    },
-    "discord": {
-      "tittle": "https://discord.gg/TrdG7mhr"
     },
     "j4r": {
       "tittle": "Join for Resources - Qwakactyl"
