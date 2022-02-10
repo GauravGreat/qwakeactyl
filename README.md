@@ -3,7 +3,7 @@
 
 <hr>
 
-# Qwakeactyl • The best Pterodactyl client area
+# Qwakeactyl
 Making a free or paid host and need a way for users to sign up, earn coins, manage servers? Try out Qwakeactyl.
 To get started, scroll down and follow the guide
 
@@ -47,3 +47,5 @@ $ npm start
 This theme is taken from [creativetim](https://github.com/creativetimofficial).
 
 This project Is managed by made by [IC|Developmet](https://github.com/Team-IC) Developers
+
+fork of dashactyl 0.4
