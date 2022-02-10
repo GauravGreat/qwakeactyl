@@ -48,4 +48,10 @@ This theme is taken from [creativetim](https://github.com/creativetimofficial).
 
 This project Is managed by made by [IC|Developmet](https://github.com/Team-IC) Developers
 
-fork of dashactyl 0.4
+
+# Credits
+
+this project was not possible without [dashactylv0.4](https://github.com/Votion-Development/Dashactyl-0.4) .
+
+
+
