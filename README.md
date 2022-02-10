@@ -9,14 +9,14 @@ To get started, scroll down and follow the guide
 
 All features:
 - Resource Management (gift, use it to create servers, etc)
-- Coins (AFK Page earning, Linkvertise earning)
+- Coins (AFK Page earning)
 - Coupons (Gives resources & coins to a user)
 - Servers (create, view, edit servers)
 - User System (auth, regen password, etc)
 - Store (buy resources with coins)
 - Dashboard (view resources & servers from one area)
 - Join for Resources (join discord servers for resources)
-- Admin (set/add/remove coins & resources, create/revoke coupons)
+- Admin (set/add/remove coins & resources, create/revoke coupons & etc)
 - API (for a lot things)
 - Legal (tos/pp in footer & its own page)
 - user friendly
@@ -30,12 +30,12 @@ We are not responsible for any damages.
 
 # install in VPS
 ```yml
-bash <(curl -s https://raw.githubusercontent.com/Nightmaregodss/qwakeactyl-installer-assets/main/installer.sh)
+$ bash <(curl -s https://raw.githubusercontent.com/Nightmaregodss/qwakeactyl-installer-assets/main/installer.sh)
 ```
 
 # start command
-```
-npm start
+```js
+$ npm start
 ```
 
 <hr>
