@@ -3,7 +3,7 @@
 
 <hr>
 
-# Qwakeactyl
+# Qwakeactyl | a fork of dashactyl v0.4
 Making a free or paid host and need a way for users to sign up, earn coins, manage servers? Try out Qwakeactyl.
 To get started, scroll down and follow the guide
 
