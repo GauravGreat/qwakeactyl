@@ -104,8 +104,7 @@ settings_configuration() {
 reverseproxy_configuration() {
     echo "-------------------------------------------------------"
     echo "Starting Reverse Proxy Configuration."
-    echo "Read the Docs for more infomration about the Configuration."
-    echo "https://josh0086.gitbook.io/dashactyl/"
+    echo "any issue join our discord server link: https://discord.gg/KSz3924yYD"
     echo "-------------------------------------------------------"
 
    echo "Select your webserver [NGINX]"
