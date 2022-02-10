@@ -50,7 +50,7 @@
         "_comment": "URL of the webhook to send messages to.",
         "webhook_url": "",
         "auditlogs": {
-          "_comment": "This feature allows you to log actions, and get an overview of a users actions (only works if done with dashactyl, not ptero)",
+          "_comment": "This feature allows you to log actions, and get an overview of a users actions (only works if done with qwakeactyl, not ptero)",
           "enabled": false,
           "_comment2": "The types of notifications disabled. Values: ADMIN, LOGIN, SERVER, COUPONREDEEM",
           "disabled": []
