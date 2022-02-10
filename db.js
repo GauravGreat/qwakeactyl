@@ -1,4 +1,3 @@
-// This file was specifically created to support past Dashactyl versions that used keyv.
 
 const settings = require("./settings.json");
 const db = require('better-sqlite3')(settings.database);
