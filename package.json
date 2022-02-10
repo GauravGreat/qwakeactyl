@@ -1,7 +1,7 @@
 {
-  "name": "dashactyl",
+  "name": "qwakeactyl",
   "version": "0.4.5",
-  "description": "Dashactyl is a professional panel for allowing users to split resources for servers on the Pterodactyl Panel.",
+  "description": "Qwakeactyl is a better version of dashactyl with better theme and more feuteres.",
   "main": "index.js",
   "dependencies": {
     "@fullcalendar/core": "^5.10.1",
@@ -232,12 +232,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/real2two/dashactyl.git"
+    "url": "git+https://github.com/Qwakeacty/Qwakeactyl.git"
   },
-  "author": "Two",
+  "author": "kartik, demon, ashis",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Dashactyl-Development/Dashactyl-0.4/issues"
+    "url": "https://github.com/Qwakeacty/Qwakeactyl/issues"
   },
-  "homepage": "https://github.com/Dashactyl-Development/Dashactyl-0.4#readme"
+  "homepage": "https://github.com/Qwakeacty/Qwakeactyl#readme"
 }
