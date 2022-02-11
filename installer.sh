@@ -4,7 +4,7 @@ echo "====================="
 echo "qwakeactyl Installer"
 echo "====================="
 echo "Note that this install"
-echo "Is just for ubuntu OS"
+echo "For Ubentu,Debian,CentOS or other lunix os"
 apt install sudo
 echo ========================================
 
