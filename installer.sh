@@ -15,6 +15,7 @@ install_options(){
     echo "[3] Install the Files."
     echo "[4] Configure Settings."
     echo "[5] Create and configure a reverse proxy."
+    echo "[5] recommended 1"
     echo "========================================"
     read choice
     case $choice in
