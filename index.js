@@ -129,7 +129,7 @@ app.use(express.json({
   verify: undefined
 }));
 console.log(chalk.yellow("=================================================="))
-console.log(chalk.blue("[Qwakeactyl] ©️ IC DEVELOPMENT \n HELP LINKS  \n https://github.com/Team-IC/Qwakeactyl \n  https://discord.gg/ic \n https://discord.gg/zRbqTu99d3"));
+console.log(chalk.blue("[Qwakeactyl] ©️ IC DEVELOPMENT \n HELP LINKS  \n https://github.com/Team-IC/Qwakeactyl \n  https://discord.gg/ic));
 
 console.log(chalk.green(`[contributors] \n Just a Kartik#6927 \n Demon Emperor NightmareGods#2086 \n ||**AshishOp.java**||#0666 \n ItzPrashXD#0001`));
 console.log(chalk.red("=================================================="))
