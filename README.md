@@ -1,6 +1,3 @@
-![Banner](https://cdn.discordapp.com/attachments/941545345333207071/941546606057115668/unknown.png)
-
-
 
 ![Qwakeactyl](https://media.discordapp.net/attachments/939526295434444850/940603150044377178/unknown.png)
 
