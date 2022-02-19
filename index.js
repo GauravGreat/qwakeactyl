@@ -129,10 +129,10 @@ app.use(express.json({
   verify: undefined
 }));
 console.log(chalk.yellow("=================================================="))
-console.log(chalk.blue("[Qwakeactyl] ©️ IC DEVELOPMENT \n HELP LINKS  \n https://github.com/Team-IC/Qwakeactyl \n  https://discord.gg/ic));
-
-console.log(chalk.green(`[contributors] \n Just a Kartik#6927 \n Demon Emperor NightmareGods#2086 \n ||**AshishOp.java**||#0666 \n ItzPrashXD#0001`));
-console.log(chalk.red("=================================================="))
+console.log(chalk.blue("[Qwakeactyl] ©️ IC DEVELOPMENT:  \n Links:   \n [Github] https://github.com/Team-IC/Qwakeactyl \n [Discord] https://discord.gg/ic"));
+console.log(chalk.yellow("=================================================="))
+console.log(chalk.gray("[Contributors] \n [Just a Kartik#6927 \n Demon Emperor NightmareGods#2086 \n ||**AshishOp.java**||#0666]"));
+console.log(chalk.yellow("=================================================="))
 
 const listener = app.listen(settings.website.port, function() {
   console.log(chalk.green("[Qwakeactyl] Loaded Website on the port " + listener.address().port +" "));
