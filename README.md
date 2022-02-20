@@ -1,4 +1,3 @@
-
 ![Qwakeactyl](https://media.discordapp.net/attachments/939526295434444850/940603150044377178/unknown.png)
 
 <hr>
@@ -27,6 +26,13 @@ We cannot force you to keep the "Powered by Qwakeactyl" in the footer, but pleas
 # Disclaimer
 
 We are not responsible for any damages.
+
+# Dependence for windows installer
+
+Git [Download](https://git-scm.com/downloads)
+Node.js [Download(https://nodejs.org/en/download/)
+
+only for windows installer
 
 # install in VPS
 ```yml
