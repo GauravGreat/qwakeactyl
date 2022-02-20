@@ -30,7 +30,8 @@ We are not responsible for any damages.
 # Dependence for windows installer
 
 Git [Download](https://git-scm.com/downloads)
-Node.js [Download(https://nodejs.org/en/download/)
+
+Node.js [Download](https://nodejs.org/en/download/)
 
 only for windows installer
 
