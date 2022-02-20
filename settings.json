@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "defaulttheme": "Qwakeactyl-dw",
+  "version": "1.0.1-pre",
+  "defaulttheme": "Qwakeactyl",
   "website": {
     "port": 80,
     "secret": ""
