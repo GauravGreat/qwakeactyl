@@ -55,12 +55,11 @@
     "store": "store.ejs",
     "afk": "arcio.ejs",
     "redeem": "redeem.ejs",
-    "about": "aboutus.ejs", 
+    "aboutus": "aboutus.ejs", 
     "403":"403.ejs",
     "version":"version.ejs",
     "gift":"gift.ejs",
     "j4r": "j4r.ejs",
-    "make": "index2.ejs",
     "tos": "TOS.ejs",
     "pp": "pp.ejs",
         
