@@ -1,6 +1,6 @@
 {
   "name": "qwakeactyl",
-  "version": "1.0.0",
+  "version": "1.0.1-pre",
   "description": "Qwakeactyl is a better version of dashactyl with better theme and more feuteres.",
   "main": "index.js",
   "dependencies": {
