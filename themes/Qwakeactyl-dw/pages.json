@@ -60,7 +60,6 @@
     "version":"version.ejs",
     "gift":"gift.ejs",
     "j4r": "j4r.ejs",
-    "make": "index2.ejs",
     "tos": "TOS.ejs",
     "pp": "pp.ejs"
         
