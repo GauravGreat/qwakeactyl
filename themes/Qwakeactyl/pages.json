@@ -61,7 +61,7 @@
     "gift":"gift.ejs",
     "j4r": "j4r.ejs",
     "tos": "TOS.ejs",
-    "pp": "pp.ejs",
+    "pp": "pp.ejs"
         
   },
   "mustbeloggedin": [
